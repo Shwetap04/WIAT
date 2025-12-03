@@ -1,2 +1,2 @@
 # WIAT
-Weather-based Intelligent Assistant
+Weather-based Irrigation Assistant
